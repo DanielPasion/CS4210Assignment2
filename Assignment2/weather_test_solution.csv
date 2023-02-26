@@ -1,0 +1,10 @@
+D15,Sunny,Hot,Normal,Weak,PlayTennis,Confidence C
+D16,Sunny,Hot,Normal,Strong,Yes,0.8874646715550312
+D17,Sunny,Cool,High,Weak,Yes,
+D18,Overcast,Hot,High,Strong,No,
+D19,Overcast,Cool,High,Weak,No,
+D20,Overcast,Cool,High,Strong,Yes,
+D21,Rain,Mild,Normal,Strong,No,
+D22,Rain,Hot,Normal,Strong,Yes,0.852185005619703
+D23,Rain,Hot,High,Weak,Yes,0.8486680590787409
+D24,Rain,Mild,High,Strong,Yes,
